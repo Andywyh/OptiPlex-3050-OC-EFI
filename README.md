@@ -1,6 +1,6 @@
 Dell OptiPlex 3050 OC EFI on Catalina(macOS 10.15.x)
 ----
-### 基于最新OPenCore 0.5.6正式版配置，使用机型为Dell OptiPlex 3050，安装系统版本为Catalina 10.15.3 \<br>
+### 基于OPenCore 0.5.6正式版，机型为Dell OptiPlex 3050，系统版本为Catalina 10.15.3 <br>
 
 ### 注意：config文件已剔除MLB、SN、UUID等信息，如需使用该文件请自行填补。<br>
 
@@ -29,8 +29,17 @@ Disk：128G SSD（sata）+1T HDD  <br>
 6、外接USB3.0 Hub速率正常<br>
 6、光驱<br>
 
-### 不正常功能：
+### 不正常功能：<br>
 1、睡眠 （未调整、公司电脑不方便测试）<br>
 2、麦克风是否可用未知（无相关设备来测试）<br>
 
 ##### 公司电脑目前已满足正常工作和稳定性需求，其他无关功能测试修补不再做测试或更新，有兴趣的小伙伴可用尝试修复和定制接口
+
+
+安装配置过程所使用资料均来自网络，包括但不限于以下：
+[tonymacx86:Heporis](https://www.tonymacx86.com/threads/mojave-10-14-5-on-dell-optiplex-3050.279277/)<br>
+[精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)<br>
+[使用OpenCore引导黑苹果-xin's blog](https://blog.xjn819.com/?p=543)<br>
+[OC-little](https://github.com/daliansky/OC-little)<br>
+[OpenCore Vanilla Guide](https://khronokernel-2.gitbook.io/opencore-vanilla-desktop-guide/)
+

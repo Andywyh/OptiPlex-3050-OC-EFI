@@ -4,8 +4,8 @@ Dell OptiPlex 3050 OC EFI on Catalina(macOS 10.15.x)
 基于最新OPenCore 0.5.6正式版配置，使用机型为Dell OptiPlex 3050，安装系统版本为Catalina 10.15.3
 
 注意：config文件已剔除MLB、SN、UUID等信息，如需使用该文件请自行填补。
-
----------具体配置如下：-------------
+-----------------------------
+具体配置如下：
 CPU：i5 7400
 RAM：8G DDR4 （single）
 GPU：HD630 （only）

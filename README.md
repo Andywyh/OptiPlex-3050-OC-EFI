@@ -1,8 +1,8 @@
 Dell OptiPlex 3050 OC EFI on Catalina(macOS 10.15.x)
 ----
-### 基于OPenCore 0.5.6正式版，机型为Dell OptiPlex 3050，系统版本为Catalina 10.15.3 <br>
+### 基于OPenCore 0.6.3正式版，机型为Dell OptiPlex 3050，系统版本为Big Sur 11.01 ，机型iMac 18,1<br>
 
-### 注意：config文件已剔除MLB、SN、UUID等信息，如需使用该文件请自行填补。<br>
+### 注意：config文件中MLB、SN、UUID等机型信息请自行更改后使用。<br>
 
 ### 具体配置如下：<br>
 CPU：i5 7400 <br>
@@ -23,7 +23,7 @@ Disk：128G SSD（sata）+1T HDD  <br>
 ### 正常功能：<br>
 1、GPU视频硬解<br>
 2、cpu变频<br>
-3、扬声器(内置+耳机口)<br>
+3、声卡（ALC255，layout ID 11）<br>
 4、HDMI、DP<br>
 5、USB3.0（未定制）<br>
 6、外接USB3.0 Hub速率正常<br>

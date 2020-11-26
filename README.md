@@ -1,6 +1,6 @@
-Dell OptiPlex 3050 OC EFI on Catalina(macOS 10.15.x)
+Dell OptiPlex 3050 OC EFI on BigSur(macOS 11.0.1)
 ----
-### 基于OPenCore 0.6.3正式版，机型为Dell OptiPlex 3050，系统版本为Big Sur 11.01 ，机型iMac 18,1<br>
+### 基于OPenCore 0.6.3正式版，机型为Dell OptiPlex 3050，系统版本为Big Sur 11.0.1 ，机型iMac 18,1<br>
 
 ### 注意：config文件中MLB、SN、UUID等机型信息请自行更改后使用。<br>
 
@@ -8,7 +8,7 @@ Dell OptiPlex 3050 OC EFI on Catalina(macOS 10.15.x)
 CPU：i5 7400 <br>
 RAM：8G DDR4 （single）<br>
 GPU：HD630 （only）<br>
-Disk：128G SSD（sata）+1T HDD  <br>
+Disk：240G SSD（sata）+1T HDD  <br>
 
 ### 注意：由于dell机型的特殊性，使用前需要先进行如下操作修改BIOS：<br>
 1、将U盘格式化为fat32，将GRUB文件夹下"EFI.zip"解压将到U盘根目录 <br>
@@ -29,14 +29,20 @@ Disk：128G SSD（sata）+1T HDD  <br>
 6、外接USB3.0 Hub速率正常<br>
 7、光驱<br>
 8、网卡<br>
-
+<br>
 ### 不正常功能：<br>
 1、睡眠<br>
-
-#### 主机前面板二合一耳机插孔使用说明：来源：[hackintosh-stuff/ComboJack](https://github.com/hackintosh-stuff/ComboJack)<br>
-
+<br>
+##### 主机前面板二合一耳机插孔使用说明：<br>
+---来源：[hackintosh-stuff/ComboJack](https://github.com/hackintosh-stuff/ComboJack)---<br>
+1. 下载项目中ComboJack.zip文件并解压<br>
+2. 打开终端，将ComboJack_Installer文件夹中的install.sh拖进终端窗口运行，运行完毕后重启<br>
+3. 插入耳机的时候，会弹出对话框询问你插入的是耳机(headphones)还是耳麦(headset)或输入线路（line-in）<br>
+<br>
+<br>
 ##### 公司电脑目前已满足正常工作和稳定性需求，USB定制和睡眠修正不再做测试或更新，有兴趣的小伙伴可用尝试修复和定制接口
-
+<br>
+<br>
 
 安装配置过程所使用资料均来自网络，包括但不限于以下：<br>
 [tonymacx86:Heporis](https://www.tonymacx86.com/threads/mojave-10-14-5-on-dell-optiplex-3050.279277/)<br>

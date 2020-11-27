@@ -35,8 +35,8 @@ Disk：128G SSD（sata）+1T HDD  <br>
 
 ##### 公司电脑目前已满足正常工作和稳定性需求，其他无关功能测试修补不再做测试或更新，有兴趣的小伙伴可用尝试修复和定制接口
 #### 系统信息展示：
-![image](https://github.com/Andywyh/OptiPlex-3050-OC-EFI/blob/master/Photos/info.png?raw=true)
 ![image](https://github.com/Andywyh/OptiPlex-3050-OC-EFI/blob/master/Photos/cpu_info.png?raw=true)
+![image](https://github.com/Andywyh/OptiPlex-3050-OC-EFI/blob/master/Photos/info.png?raw=true)
 ![image](https://github.com/Andywyh/OptiPlex-3050-OC-EFI/blob/master/Photos/Audio_info.png?raw=true)
 ![image](https://github.com/Andywyh/OptiPlex-3050-OC-EFI/blob/master/Photos/USB_info.png?raw=true)<br>
 

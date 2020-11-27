@@ -38,7 +38,7 @@ Disk：128G SSD（sata）+1T HDD  <br>
 ![image](https://github.com/Andywyh/OptiPlex-3050-OC-EFI/blob/master/Photos/info.png?raw=true)
 ![image](https://github.com/Andywyh/OptiPlex-3050-OC-EFI/blob/master/Photos/Audio_info.png?raw=true)
 ![image](https://github.com/Andywyh/OptiPlex-3050-OC-EFI/blob/master/Photos/USB_info.png?raw=true)
-![image](https://github.com/Andywyh/OptiPlex-3050-OC-EFI/blob/master/Photos/CPU_info.png?raw=true)
+![image](https://github.com/Andywyh/OptiPlex-3050-OC-EFI/blob/master/Photos/cpu_info.png?raw=true)
 安装配置过程所使用资料均来自网络，包括但不限于以下：<br>
 [tonymacx86:Heporis](https://www.tonymacx86.com/threads/mojave-10-14-5-on-dell-optiplex-3050.279277/)<br>
 [精解OpenCore](https://blog.daliansky.net/OpenCore-BootLoader.html)<br>

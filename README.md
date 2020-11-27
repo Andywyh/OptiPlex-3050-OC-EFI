@@ -34,7 +34,8 @@ Disk：128G SSD（sata）+1T HDD  <br>
 2、麦克风是否可用未知（无相关设备来测试）<br>
 
 ##### 公司电脑目前已满足正常工作和稳定性需求，其他无关功能测试修补不再做测试或更新，有兴趣的小伙伴可用尝试修复和定制接口
-
+#### 系统信息展示：
+![image](https://github.com/Andywyh/OptiPlex-3050-OC-EFI/blob/master/Photos/info.png?raw=true)
 
 安装配置过程所使用资料均来自网络，包括但不限于以下：<br>
 [tonymacx86:Heporis](https://www.tonymacx86.com/threads/mojave-10-14-5-on-dell-optiplex-3050.279277/)<br>

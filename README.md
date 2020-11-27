@@ -17,7 +17,7 @@ Disk：128G SSD（sata）+1T HDD  <br>
       setup_var 0x795 0x2 回车（修改dvmt为64MB）<br>
       setup_var 0x4ed 0x0 回车（关闭CFG)<br>
 
-<方法来源：https://www.tonymacx86.com/threads/mojave-10-14-5-on-dell-optiplex-3050.279277/  > <br>
+方法来源：[tonymacx86:Heporis](https://www.tonymacx86.com/threads/mojave-10-14-5-on-dell-optiplex-3050.279277/) <br>
 =========================================================================================<br>
 
 ### 正常功能：<br>
